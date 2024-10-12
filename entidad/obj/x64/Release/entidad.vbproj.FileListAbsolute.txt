@@ -1,0 +1,18 @@
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\entidad\bin\x64\Release\entidad.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\entidad\bin\x64\Release\entidad.pdb
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\entidad\bin\x64\Release\entidad.xml
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\entidad\obj\x64\Release\entidad.Resources.resources
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\entidad\obj\x64\Release\entidad.vbproj.GenerateResource.Cache
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\entidad\obj\x64\Release\entidad.dll
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\entidad\obj\x64\Release\entidad.xml
+C:\Users\Ricardo\Documents\Visual Studio 2010\Projects\rafnielTechnology\entidad\obj\x64\Release\entidad.pdb
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\rafnielTechnology\entidad\bin\x64\Release\entidad.dll
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\rafnielTechnology\entidad\bin\x64\Release\entidad.pdb
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\rafnielTechnology\entidad\bin\x64\Release\entidad.xml
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\rafnielTechnology\entidad\obj\x64\Release\entidad.vbproj.AssemblyReference.cache
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\rafnielTechnology\entidad\obj\x64\Release\entidad.Resources.resources
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\rafnielTechnology\entidad\obj\x64\Release\entidad.vbproj.GenerateResource.cache
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\rafnielTechnology\entidad\obj\x64\Release\entidad.vbproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\rafnielTechnology\entidad\obj\x64\Release\entidad.dll
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\rafnielTechnology\entidad\obj\x64\Release\entidad.xml
+C:\Users\Ricardo\Documents\Linux\ricardo\Projects\rafnielTechnology\entidad\obj\x64\Release\entidad.pdb
